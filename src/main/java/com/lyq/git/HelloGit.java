@@ -8,6 +8,8 @@ public class HelloGit {
 		
 		System.out.println("分支操作1");
 		System.out.println("分支操作2");
+		
+		System.out.println("冲突解决，合并操作");
 	}
 
 }
